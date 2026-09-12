@@ -20,4 +20,9 @@ Repositorio personal dedicado al almacenamiento de ejercicios, pruebas de concep
 ├── tallernltk3.ipynb           # Prácticas avanzadas con NLTK (parte 3)
 ├── tallerspacy_test.ipynb      # Pruebas de modelos con spaCy
 ├── tallerspacy1.ipynb          # Taller principal de spaCy
+├── tallertf1.ipynb             # Taller de TensorFlow (parte 1)
+├── tallertf2.ipynb             # Taller de TensorFlow (parte 2)
+├── tallertf3.ipynb             # Taller de TensorFlow (parte 3)
+├── tallertf4.ipynb             # Taller de TensorFlow (parte 4)
+├── tallllertf5.ipynb           # Taller de TensorFlow (parte 5)
 └── README.md                   # Documentación general
