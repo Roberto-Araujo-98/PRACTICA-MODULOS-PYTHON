@@ -25,4 +25,4 @@ Repositorio personal dedicado al almacenamiento de ejercicios, pruebas de concep
 ├── tallertf3.ipynb             # Taller de TensorFlow (parte 3)
 ├── tallertf4.ipynb             # Taller de TensorFlow (parte 4)
 ├── tallllertf5.ipynb           # Taller de TensorFlow (parte 5)
-└── README.md                   # Documentación general
+└── README.md                   # Documentación general.
